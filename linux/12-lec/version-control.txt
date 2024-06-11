@@ -1,0 +1,13 @@
+Version Control Softwares
+Examples: Git/Mercurial/SVN
+
+	1. Records changes
+	2. Collaboration with developers
+	3. Tracking changes
+	4. Revert any changes
+
+
+VCS
+	- Local: Single Developers
+	-Centralised :  
+	-Distributed:  
