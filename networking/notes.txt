@@ -1,0 +1,61 @@
+Topics
+-------
+Components
+OSI Model
+Classification
+Devices
+IP addresses
+Protocols
+Ports
+Practical Networking applications.
+
+
+--------------------------------------------------------------------------------------
+
+Components:
+	Two or more devices.
+	Link/Cable/Connection
+	Switches/Routers
+	Network Interface cards.
+OSI MODEL
+
+Classification of Network
+
+LAN: Local Area Network
+WAN: Wide Area Network
+MAN: Metropolitan Area Network
+CAN: Campus Area Network
+PAN: Personal Area Network 
+
+
+Devices
+
+Routers 
+Switches
+
+
+
+
+IP Addresses:
+IPV4 addresses IPV6 addresses
+
+
+---.---.---.---
+eg. 192.168.1.1
+________.________.________.________
+
+0.0.0.0 to 255.255.255.255 
+
+
+
+Public IP address
+Private IP Address
+
+
+Private IP addresses:
+Class A (10.0.0.0 - 10.255.255.255)
+Class B (172.16.0.0 - 172.31.255.255) 
+Class C (192.168.0.0 - 192.168.255.255) 
+Class D
+
+
