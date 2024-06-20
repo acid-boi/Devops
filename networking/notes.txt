@@ -58,4 +58,10 @@ Class B (172.16.0.0 - 172.31.255.255)
 Class C (192.168.0.0 - 192.168.255.255) 
 Class D
 
+Protcols : Set of rules that needs to be followed when a connection is being made.
+
+	1. TCP: 3 way handshake. SYN -> SYN ACK -> ACK (TCP Handshake) eg SSH, HTTP, HTTPS
+
+	2. UDP: Connectionless and fast protocol, there might be packet losses. eg DNS
+
 
